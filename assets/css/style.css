@@ -1,0 +1,42 @@
+* {box-sizing: border-box;}
+
+body {
+    background-color: navy;
+    color: #fff;
+    font-family: 'Carter One', cursive;
+}
+
+h1 {
+    color: palegoldenrod;
+    text-align: center;
+    font-family: 'Monoton', cursive;
+    font-size: 42px;
+    margin: 15px;
+}
+
+h3 {
+    font-family: 'Monoton', cursive;
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    margin: 15px;
+}
+
+p {
+    text-align: center;
+    padding: 5px;
+}
+
+img {
+    align-content: center;
+    width: 50%;
+    height: auto;
+    margin: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
