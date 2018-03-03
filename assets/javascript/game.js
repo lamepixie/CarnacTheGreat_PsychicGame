@@ -14,10 +14,6 @@
         var carnacGuess = alphabet[Math.floor(Math.random() * alphabet.length)];
         picked.push(userGuess); 
 
-       /* document.onkeyup = function(event) {
-            var picked = String.fromCharCode(event.keyCode).toLowerCase();*/
-
-
             if (userGuess == carnacGuess){
                 wins++;
                 alert("You guessed what Carnac was thinking!");
@@ -34,7 +30,6 @@
 
             else if (userGuess !== carnacGuess){
                 guesses--;
-                alert("Guess again.")
             }
 	
     var html = 
