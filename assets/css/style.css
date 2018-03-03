@@ -39,6 +39,7 @@ img {
     border-color: yellow;
 }
 
+/* centers the image */
 .center {
     display: block;
     margin-left: auto;
