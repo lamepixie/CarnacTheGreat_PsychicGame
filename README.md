@@ -8,4 +8,4 @@ The numbers of wins and loses the user experiences are tracked and displayed for
 The app allows to user to select the same letter multiple times in the same round. This needs to be resolved.
 
 ##### Screen Shot
-![Carnac the Magnificent!](images/carnac.JPG)
+![Carnac the Magnificent!](assets/images/carnac_screengrab.JPG)
