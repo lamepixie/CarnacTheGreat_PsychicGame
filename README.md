@@ -4,7 +4,7 @@
 This app will randomly select a letter and the user has 9 guesses to guess which letter the app has chosen.
 The numbers of wins and loses the user experiences are tracked and displayed for the user to see.
 
-##Play the game:
+## Play the game:
 [Carnac Psychic Game](https://lamepixie.github.io/CarnacTheGreat_PsychicGame)
 
 
